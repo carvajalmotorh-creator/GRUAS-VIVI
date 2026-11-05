@@ -1,0 +1,26 @@
+SERVICIO DE GRÚAS VIVI — PRIMERA VERSIÓN WEB
+
+Contenido:
+- index.html: página principal
+- styles.css: diseño adaptable a móvil y ordenador
+- script.js: menú móvil y ampliación de fotografías
+- assets/: fotografías facilitadas por el cliente
+
+Cómo probar:
+1. Descomprimir la carpeta.
+2. Abrir index.html con un navegador.
+3. Para publicar, subir el contenido completo de esta carpeta (incluida assets/) al alojamiento web.
+
+Datos incorporados:
+- Servicio de Grúas VIVI
+- Teléfonos: 670 326 986 y 642 501 660
+- Base/zona de referencia: Horta, Barcelona
+- Cobertura comunicada: Barcelona y toda España
+- Disponibilidad: 24 horas, 365 días
+- Actividad principal: transporte de vehículos con grúa plataforma
+- Asistencia puntual en carretera
+
+Pendiente de validar antes de publicar definitivamente:
+- Confirmar si ambos números reciben llamadas y WhatsApp.
+- Confirmar el texto legal/razón social y datos fiscales para aviso legal y privacidad si se recogen datos mediante formularios (esta versión no incluye formulario).
+- Revisar selección final de fotografías y rotulaciones visibles.
